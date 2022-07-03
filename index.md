@@ -18,3 +18,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 Hello World code
 ```
 
+### Checklist sample
+
+- [x] Step 1
+- [x] Step 2
+- [ ] Step 3
+- [ ] Step 4
